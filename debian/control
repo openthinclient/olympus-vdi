@@ -1,0 +1,11 @@
+Source: olympus-vdi
+Section: unknown
+Priority: optional
+Maintainer: Development Team <devteam@openthinclient.com>
+
+Package: olympus-vdi
+Architecture: amd64
+Description: Olympus Device Virtual Channel Driver
+ Enables support for special buttons of Olympus / OM Digital Solutions devices in VDI sessions.
+ .
+ This package will be installed automatically as a dependency of supported VDI clients.
